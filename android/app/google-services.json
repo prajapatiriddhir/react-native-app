@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "206854113210",
+    "firebase_url": "https://discoveri-dffa7.firebaseio.com",
+    "project_id": "discoveri-dffa7",
+    "storage_bucket": "discoveri-dffa7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206854113210:android:7afbfb1dcd744041da3f83",
+        "android_client_info": {
+          "package_name": "com.discoveri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206854113210-t4uge9n52hqjdl58jko1plao9b4l3ouc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.discoveri",
+            "certificate_hash": "58515944a612e83eacfac94514b5c3a3aa1236aa"
+          }
+        },
+        {
+          "client_id": "206854113210-8f08q9bi8akr7f7vat4n5n71dbuuvgq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcYq5JwdHIlg7JG7r3B0QpcWsYcYdBzSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206854113210-8f08q9bi8akr7f7vat4n5n71dbuuvgq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
